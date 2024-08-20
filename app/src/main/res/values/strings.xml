@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laprak</string>
+        <string name="toast">Login</string>
+    <string name="register">New member? <font color="#525bff">Register</font></string>
+</resources>
